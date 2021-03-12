@@ -1,5 +1,5 @@
 public class Test{
 	public static void main(String[] args){
-		System.out.println("servant");
+		System.out.println("servant·ÖÖ§");
 	}
 }                                                                                                 ÿÿÿÿÿÿÿÿÿÿÿÿ                                                                                                                    ÿÿÿÿÿÿÿÿÿÿÿÿ                                                
